@@ -1,2 +1,2 @@
 # Swiggy
-Swiggy Datasets SQL Query Run and Dashboard upload soon
+Swiggy Datasets SQL Query Run with CSV file attached
